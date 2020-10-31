@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\RMapNavigator\bin\Debug\RMapNavigator.exe.config
+C:\Users\user\source\repos\RMapNavigator\bin\Debug\RMapNavigator.exe
+C:\Users\user\source\repos\RMapNavigator\bin\Debug\RMapNavigator.pdb
+C:\Users\user\source\repos\RMapNavigator\obj\Debug\RMapNavigator.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RMapNavigator\obj\Debug\RMapNavigator.Form1.resources
+C:\Users\user\source\repos\RMapNavigator\obj\Debug\RMapNavigator.Properties.Resources.resources
+C:\Users\user\source\repos\RMapNavigator\obj\Debug\RMapNavigator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RMapNavigator\obj\Debug\RMapNavigator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RMapNavigator\obj\Debug\RMapNavigator.exe
+C:\Users\user\source\repos\RMapNavigator\obj\Debug\RMapNavigator.pdb
